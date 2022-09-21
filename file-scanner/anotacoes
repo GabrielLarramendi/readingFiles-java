@@ -1,0 +1,5 @@
+File: Representação abstrata de um arquivo e o caminho dele;
+
+Scanner: Leitor de texto. Pode ler dados de arquivos;
+
+IOException (Exception): Exceção padrão de entrada e saída;
